@@ -1,0 +1,11 @@
+# modeled after the R package cffr CITATION file
+
+bibentry(
+  "Manual",
+  title = "jab.adverse.reactions: Possible Adverse Events/Reactions from the Vaccinations/Experimental Gene Therapies",
+  author = person("Irucka", "Embry"),
+  year = 2022,
+  url = "https://gitlab.com/iembry/jab.adverse.reactions",
+  abstract = "Provides data about the possible adverse events/reactions resulting from being injected with a vaccine/experimental gene therapy. Currently, the data is only from three reference sources. Refer to the Citation file for the reference information. For information about vaccination$/immunization$ hazards, visit <https://www.questionuniverse.com/rethink.html#vaccine>, <https://www.ecoccs.com/healing.html#vaccines>, <https://www.questionuniverse.com/rethink_current_crisis.html#cov_vaccin>, and <https://www.questionuniverse.com/vaccination.html>.",
+  version = "1.0.1"
+)
