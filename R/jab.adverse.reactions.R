@@ -5,6 +5,7 @@
 #' vaccine/experimental gene therapy shot.
 #'
 #'
-#' @docType package
-#' @name jab.adverse.reactions
-NULL
+#'
+#' @keywords internal
+"_PACKAGE"
+#> [1] "_PACKAGE"
